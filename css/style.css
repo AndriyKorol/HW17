@@ -1,0 +1,28 @@
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+}
+
+nav span{
+    font-size: 25px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+nav .input-field {
+    margin-top: 23px;
+    height: 100%;
+}
+
+a.material-icons {
+    margin-top: 23px;
+} 
+
+.container{
+    margin-top: 30px;
+}
+
+.container .card{
+    margin-top: 50px;
+}
+
