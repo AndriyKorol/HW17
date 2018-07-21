@@ -55,7 +55,7 @@ function onDelete(e){
 function onLogout() {
     ui.showLoader();
     auth.logout()
-        .then(() => window.location = 'login-start.html');
+        .then(() => window.location = 'login.html');
 }
 
 function goToAllNews() {
